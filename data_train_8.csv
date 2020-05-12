@@ -1,0 +1,258 @@
+﻿temperature of the atmosphere surrounding the operating resource under specified conditions period in whose course something happens: period of time in which something is active upper limit value of a physical quantity whose value cannot or must not be exceeded,2
+Maximum limit value of specific temperature during operation surrounding the operating unit,2
+maximum temperature that may be present in the immediate exterior environment of the operation resource. This is the greatest environmental temperature not ever to be exceeded in which the operating resource can be operated without permanent changes in its characteristics,2
+maximal permitted temperature of the atmosphere surrounding the operating resource during operation,2
+highest ambient temperature a device can or must withstand without permanent impairment of operating characteristics,2
+temperature of the atmosphere surrounding the operating resource under specified conditions period in whose course something happens: period of time in which something is active lower limit value of a physical quantity whose value cannot or must not be undershot,3
+Minimum limit value of specific temperature during operation surrounding the operating unit,3
+minimal permitted temperature of the atmosphere surrounding the operating resource during operation,3
+highest value of relative humidity for which a device is or must be designed to operate within its specified limits,0
+highest relative humidity which is permitted for the intended use of device,0
+lowest relative humidity which is required for the intended use of device,1
+indication of the minimum value of relative humidity at which the device can be operated properly,1
+maximal value for the adjustment range of relative air humidity,0
+indication of the maximum value of relative humidity at which the device can be operated properly,0
+highest relative humidity to which a device may be subject without permanent impairment of operating characteristics,0
+lowest relative humidity to which a device may be subject without permanent impairment of operating characteristics,1
+lowest ambient temperature for which a device is or should be designed to operate within its specified limits,3
+highest ambient temperature for which a device is or should be designed to operate within its specified limits,2
+highest ambient temperature a device can or should withstand without permanent impairment of operating characteristics,2
+lowest ambient temperature a device can or should withstand without permanent impairment of operating characteristics,3
+highest value of relative humidity for which a device is or should be designed to operate within its specified limits,0
+lowest value of relative humidity for which a device is or should be designed to operate within its specified limits,1
+highest temperature of the surrounding air declared by the manufacturer at which the control may be operated,2
+lowest temperature of the surrounding air declared by the manufacturer at which the control may be operated,3
+the temperature assigned to a luminaire to indicate the highest sustained temperature in which the luminaire may be operated under normal conditions,2
+Pressure for a component on the basis of materials used and on the basis of calculation rules at the specified operating temperature,4
+Rate of flow at the point of best efficiency,5
+Total head developed by the pump at a rate of flow corresponding to the best efficiency,6
+Maximum permissible head at which the pump can be continuously operated without suffering damage,7
+Speed corresponding to the rated data of the motor used,8
+nominal speed of a rotational ac asynchronous or dc motor at the rated input voltage and rated torque,8
+specification of the value up to an assigned working pressure,4
+maximum pressure to which a component may be subjected during operation,4
+highest operating pressure of an object based on the materials used,4
+volume flow at best efficiency point,5
+the optimum volumetric flow at the point of best efficiency,5
+the largest volume flow achieved at maximum efficiency,5
+this feature describes the optimum flow rate that is achieved at the point of best efficiency,5
+optimum total head which a pump achieves at the point of best efficiency,6
+optimum head of a pump,6
+this feature describes the optimum head of a component at the point of highest efficiency,6
+maximum head at which a pump can be operated without causing any damage,7
+maximum head that a pump can reach,7
+maximum head of a pump during operation that can be achieved without destroying the pump,7
+This characteristic describes the maximum permissible head of a pump which can deliver it continuously.,7
+Speed of a motor at rated voltage and rated torque ,8
+this feature describes the rated speed of a motor,8
+rated speed of a motor at rated voltage,8
+maximum working pressure an object may be exposed to,4
+maximum working pressure to which a component may be subjected continuously without causing damage,4
+maximum working pressure for a pump in operation,4
+maximum allowable working pressure during operation for one component under specified working conditions,4
+optimum volume flow of a component,5
+the best flow rate of a pump at the highest efficiency point,5
+the maximum flow a component can deliver,5
+the optimum flow that an object can have at the point of best efficiency,5
+the head of a pump at the point of best efficiency,6
+the optimum delivery head of a pump,6
+the best head of a pump at the point of best efficiency,6
+the maximum permissible head of a pump,7
+the maximum allowable head a pump can deliver without damage,7
+the maximum  head of a pump that can deliver it during operation,7
+the rated speed of a motor,8
+the rated speed of a motor at rated current ,8
+maximum relative humidity a component may be continuously exposed to during operation,0
+This characteristic describes the maximum humidity in which a device may be operated. ,0
+maximum relative air humidity during operation,0
+highest air humidity at which the component may be used ,0
+highest allowed humidity for a device,0
+minimum relative humidity a component may be continuously exposed to during operation,1
+This characteristic describes the minimum humidity in which a device may be operated. ,1
+minimum relative air humidity during operation,1
+lowest humidity at which the component may be used,1
+lowest allowed humidity for a device,1
+minimum humidity at which the appliance may be operated,1
+minimum permitted humidity for which the device is approved,1
+This characteristic describes the highest ambient temperature that may prevail during operation of the appliance.,2
+This characteristic describes the lowest ambient temperature that may prevail during operation of the device.,3
+minimum ambient temperature during operation,3
+minimum permissible ambient temperature at which the component may be operated,3
+lowest ambient temperature for which the device is approved,3
+maximum permissible operating pressure for which the device is approved,4
+maximum operating pressure at which the device may be operated,4
+best volumetric flow of the device with best efficiency,5
+optimum head of the device at the point of optimum efficiency,6
+best head of the device,6
+optimum pump head of the pump,6
+maximum permissible head for which the device is approved,7
+highest head the pump can deliver without being destroyed,7
+nominal speed of the motor,8
+nominal speed of a drive ,8
+nominal speed of a motor under operating conditions,8
+Highest value of the pump power input at any rate of flow at any allowable operating condition,9
+Indication of the rated power consumption in watts,10
+total electrical input true power of the drive engine drawn from the mains power supply during the considered time under set working conditions and with denomination of the power output,10
+describes the nominal power consumption,10
+power requirement of the device or component during defined operating conditions,10
+total electric initial effective power that is absorbed off the supply grid during the concerning time (including the power absorption for additional devices) under set operating conditions and at the nominal value of the initial power,10
+electrical energy per time unit that an operating unit requires as connected load from the power supply,10
+guaranteed power consumption of an electric electronic or electromechanical component.,10
+power being consumed by or dissipated within an electric component as a variable,10
+power that is typically taken from the auxiliary power supply when the device is operating normally,10
+Pump rotational speed under nominal conditions.,8
+power consumption of the motor,10
+maximum pump power consumption,9
+This feature describes the maximum power consumption of a pump.,9
+maximum power consumption that a pump can have during operation,9
+maximum power consumption of the pump during operation,9
+maximum power consumption of the pump at any flow rate,9
+power that can be absorbed by a pump during operation,9
+maximum power that a pump can take up during operation,9
+Rated voltage is the value of the electrical voltage in normal operation specified by the manufacturer or supplier.,11
+nominal voltage is the specified value which shows the voltage in normal operation given by the manufacturer or supplier,11
+describes the nominal voltage U,11
+nominal voltage of a lamp or fuse,11
+voltage specified by the manufacturer for a particular operating condition of an accessory which is used for reference purposes,11
+The voltage that a device is designed to handle,11
+this characteristic describes the rated voltage during operation.,11
+nominal voltage under normal operating conditions specified by the manufacturer,11
+rated voltage of a motor,11
+electrical voltage under normal operating conditions,11
+Highest value of outlet pressure at which the pump or component is capable of functioning on the basis of the materials used,12
+maximum outlet pressure for which the pump is suitable,12
+this feature describes the highest discharge pressure that the pump can continuously provide without breaking down.,12
+maximum permissible outlet pressure of the pump,12
+highest pressure the pump can continuously process at the outlet,12
+maximum outlet pressure that the pump can withstand permanently without suffering damage,12
+highest pressure at the outlet for which the pump is approved,12
+the maximum allowable outlet pressure is the highest pressure the pump can deliver at the outlet ,12
+maximum permissible pressure at pump outlet,12
+maximum pressure at the outlet of the pump at which the pump is still functional ,12
+Lowest value of outlet pressure at which the pump or component is capable of functioning on the basis of the materials used,13
+minimum outlet pressure for which the pump is suitable,13
+this feature describes the lowest discharge pressure that the pump can continuously provide without breaking down.,13
+minimum permissible outlet pressure of the pump,13
+lowest pressure the pump can continuously process at the outlet,13
+minimum outlet pressure that the pump can withstand permanently without suffering damage,13
+lowest pressure at the outlet for which the pump is approved,13
+the minimum allowable outlet pressure is the lowest pressure the pump can deliver at the outlet ,13
+minimum permissible pressure at pump outlet,13
+minimum pressure at the outlet of the pump at which the pump is still functional ,13
+Total head developed by the pump in a zero rate of flow,14
+Hoisting height for the feed flow Q = 0,14
+The shut-off head of a pump indicates the amount of pressure required to reach a condition where the flow rate in a vertical pipe connected to the operating pump becomes zero.,14
+The maximum head (shut-off head) is achieved at a flow rate of zero.,14
+With a given diameter impeller and rotating at some given rpm this centrifugal pump would throw the liquid straight up to some maximum height. We will call this maximum height the shut-off head of the pump. ,14
+Shut-off head is the head a pump will develop when operating against a closed discharge valve.,14
+In the performance curve for a centrifugal pump the shut-off head is the point on the graph where the flow rate is zero. ,14
+The Shut-off Head is the head (liquid surface elevation) for a centrifugal pump that runs with discharge valve closed,14
+zero delivery head of a pump if no flow is available ,14
+This feature describes the zero head of a pump. ,14
+Bar code number that identifies the device based on the Global Trade Item Number system,15
+internationally unique and unambiguous article number for products and services (Global Trade Item Number),15
+Global Trade Item Number,15
+GS1 identification key used to identify trade items,15
+identifier for trade items used to look up product information in a database GS1,15
+number that is used for the unique identification of trade items worldwide and which may be 8 12 13 or 14 digits in length,15
+number that is used for the unique identification of trade items worldwide,15
+GS1 unique identifier of items that are traded in the supply chain,15
+The Global Trade Item Number is an identifier for trade items developed by GS1,15
+The Global Trade Item Number is an international unmistakable number for the identification of products. It is administered and assigned worldwide by GS1. ,15
+Product designation under which the device is marketed,16
+name given to a particular product or complete range of products,16
+name under which the product is marketed,16
+name of the product,16
+this feature describes the name by which the device is known.,16
+title under which the product is known,16
+name of the product,16
+Name of the manufacturer of a device,17
+The organization that manufactured and or assembled the item.,17
+legally valid designation of the natural or judicial person which is directly responsible for the design production packaging and labeling of a product in respect to its being brought into circulation,17
+organization which purchases raw material and converts the material into a finished mechanical fastener,17
+person or organization responsible for heat treatment of products or components,17
+natural or legal person with responsibility for the design manufacture packaging and labelling of a device before it is placed on the market under his own name regardless of whether these operations are carried out by that person himself or on his behalf by a third party,17
+party who produces a component a sub-assembly or an assembly,17
+company responsible for the manufacture of coating material,17
+company or organization that transforms raw material into a product,17
+organization responsible for the manufacture of coating material,17
+Unique combination of numbers and letters used to identify the device once it has been manufactured,18
+The serial number assigned to an occurrence of a product.,18
+alphanumeric string defined by the OEM identifying a specific piece of equipment,18
+unique combination of letters and or numbers selected by the manufacturer intended to distinguish a device from other devices with the same model designation,18
+alphanumeric identifier unique to a terminal (or group of terminals) determined by the manufacturer,18
+A serial number is a unique identifier assigned incrementally or sequentially to an item to uniquely identify it. ,18
+a unique number assigned to a particular unit of some product to identify it,18
+A serial number is a unique code assigned for identification of a single unit. ,18
+serial number of a product,18
+A number that is one of a series and is used for identification as of a machine weapon or motor vehicle.,18
+Date when an item was manufactured,19
+Date from which the production and or development process is completed or from which a service is provided completely,19
+date of the manufacturer's final acceptance of finished equipment,19
+date chosen by the manufacturer occurring between the initiation of manufacture and the delivery to the purchaser,19
+date specified by the manufacturer when the product was made subject to the requirements,19
+date on which the product was manufactured,19
+date of manufacture of the product,19
+date of manufacture of the product,19
+date on which the product was completed by the manufacturer and is ready for sale,19
+this feature describes the day on which the product was manufactured by the manufacturer.,19
+Highest speed for continuous operation recommended by the manufacturer,20
+highest rotational speed of the power-input rotor at which the machine as built and tested is capable of continuous operation with the specified fluid at any of the specified operating conditions,20
+maximum permissible speed specified by the manufacturer of the abrasive product,20
+highest speed at which the manufacturer's design permits continuous operation,20
+highest rotational speed (revolutions per minute) at which the machine as-built and tested is capable of continuous operation,20
+highest speed at which the manufacturer permits continuous operation,20
+maximum permissible speed during operation at which the device can be operated,20
+This characteristic describes the maximum permissible continuous speed.,20
+maximum permissible continuous speed,20
+maximum continuous speed at which the machine may be operated,20
+lowest speed for continuous operation recommended by the manufacturer,21
+lowest operating speed at which the manufacturer's design permits continuous operation,21
+lowest speed of the power input rotor at which the manufacturer's design permits continuous operation for the lowest rated conditions,21
+lowest rotational speed of the power-input rotor at which the manufacturer's design permits continuous operation,21
+lowest speed (revolutions per minute) at which the manufacturerÔÇÖs design shall permit continuous operation,21
+minimum speed at which continuous operation is permitted,21
+lowest continuous speed at which the manufacturer allows the machine to operate,21
+This characteristic describes the lowest speed at which the machine can be operated continuously.,21
+minimum permissible continous speed,21
+Minimum permissible head at which the pump can be operated without suffering damage,22
+smallest total energy height at the outlet side of the pump aggregate to the total energy height of the admission side of the pump aggregate at operating point,22
+lowest permissible head,22
+this feature describes the smallest head that a pump can permanently deliver during operation.,22
+smallest head that the pump can provide in operation without damage,22
+minimum permissible head of the pump,22
+head which the pump can deliver minimally without breaking down,22
+smallest head at which the pump may be operated permanently,22
+delivery head of a pump that can deliver it at a minimum without suffering any damage,22
+minimum permissible head of a pump,22
+Pump power input at zero rate of flow,23
+power consumption at flow = 0 and speed guaranteed,23
+The pump power input at zero rate of flow.,23
+shut-off pump power input,23
+power consumption of the pump when no flow is being pumped,23
+Zero power consumption which is present when no volume flow is being conveyed.,23
+this feature describes the power consumption of a pump when no flow needs to be provided.,23
+zero power consumption of a pump,23
+Power consumption at no flow rate,23
+Ten times the logarithm to the base 10 of the ratio of the square of the sound pressure p to the square of a reference value p0 expressed in decibels,24
+logarithmical measure of the pressure of a sound wave relative to a reference level,24
+Sound pressure level uses a logarithmic scale to represent the sound pressure of a sound relative to a reference pressure.,24
+logarithm of the ratio of a given sound pressure to the reference sound pressure in decibels is 20 times the logarithm to the base ten of the ratio.,24
+Sound pressure level is actually a ratio of the absolute Sound Pressure and a reference level (usually the Threshold of Hearing or the lowest intensity sound that can be heard by most people).,24
+Sound pressure level (SPL) or acoustic pressure level is a logarithmic measure of the effective pressure of a sound relative to a reference value.,24
+The sound pressure level of a sound in decibels is 20 times the logarithm to the base 10 of the ratio of the measured effective sound pressure of this sound to a reference effective sound pressure.,24
+calculation in dB as a ratio of the measured sound pressure to a reference sound pressure which for SPL is 20 uPa,24
+ten times the logarithm to the base 10 of the ratio of the square of the sound pressure to the square of the reference sound pressure,24
+Ten times the logarithm to the base 10 of the ratio of the sound power of a source P to a reference value P0 expressed in decibels,25
+ten times the logarithm to the base 10 of the ratio of the sound power radiated by the sound source under test to a reference sound power expressed in decibels (dB),25
+ten times the logarithm to the base 10 of the ratio of the sound power radiated by a sound source to the reference sound power (P0 = 10?12 W),25
+ten times the logarithm to the base 10 of the ratio of the sound power of a source W to a reference value W0 expressed in decibels,25
+Ten times the logarithm to the base 10 of the ratio of the sound power radiated by the source under test to the reference sound power. It is expressed in decibels.,25
+Logarithmic measure of the sound power generated by a source as determined using the method given in this part of ISO 9614,25
+Ten times the logarithm to the base 10 of the ratio of a given sound power to the reference sound power in decibels.,25
+Ten times the common logarithm of the ratio of sound energy to the reference sound energy of 1 pW┬Às expressed in decibels.,26
+ten times the logarithm to the base 10 of the ratio of the sound energy J to a reference value J0 expressed in decibels,26
+Sound Energy Level is the logarithmic ratio of the sound energy to the reference sound energy.,26
+Lowest speed for continuous operation  recommended by the manufacturer,21
+Logarithm of the ratio of a given sound pressure to a reference sound pressure. The sound pressure level in decibels is the same as the 20-fold logarithm of this ratio,24
+Ten times the logarithm to the base 10 of the ratio of the sound energy J to a reference value J0 expressed in decibels,26
